@@ -56,3 +56,6 @@ les/transactions.rlp
 /MANIFEST
 /manifest.json
 /site
+
+# etc private data
+./privateChain/run_log

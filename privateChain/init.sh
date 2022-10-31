@@ -2,5 +2,5 @@
 
 rm data/ -rf
 
-geth --datadir data/ init genesis.json
+repu-geth --datadir data/ init genesis.json
 
